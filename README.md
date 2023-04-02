@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data engineering project](https://diegomaneyro.edublogs.org/)
 
-- 🌱 I’m currently learning **Data Sicence**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegomaneyro](https://github.com/diegomaneyro)
 
