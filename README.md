@@ -11,7 +11,10 @@
 </p>
 
 <h3>🔭 Proyecto actual</h3>
-<p>Estoy trabajando en un emocionante proyecto de ingeniería de datos y Machine Learning.</p>
+<p>Estoy trabajando en un emocionante proyecto de ingeniería de datos y Machine Learning. </p>
+<ul>
+  <li><a href="https://github.com/diegomaneyro/DengueZikaArgentina">Dengue y Zika en Argentina</a></li>
+ </ul>
 
 <h3>🌱 Aprendiendo</h3>
 <p>Me estoy enfocando en mejorar mis habilidades en Ciencia de Datos.</p>
