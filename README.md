@@ -14,9 +14,9 @@
 </p>
 
 <h3>🔭 Proyecto actual</h3>
-<p>Estoy trabajando en un emocionante proyecto de ingeniería de datos. </p>
+<p>Estoy trabajando en un emocionante proyecto de ingeniería de datos: Una api desarrollada en python con deploy en Microsoft Azure  </p>
 <ul>
-  <li><a href="https://github.com/diegomaneyro/Dengue2022Argentina">Dengue en Argentina</a></li>
+  <li><a href="https://github.com/diegomaneyro/ApiStream.git">ApiStream  </a></li>
  </ul>
 
 <h3>🌱 Aprendiendo</h3>
@@ -25,9 +25,15 @@
 <h3>💬 Pregúntame sobre</h3>
 <p>Tengo experiencia en Python y puedo ayudarte con tus preguntas relacionadas.</p>
 
-<h3>📝 Últimos artículos</h3>
+<h3>📝 Últimos projectos</h3>
 <ul>
-  <li><a href="https://diegomaneyro.edublogs.org/">Artículo 1: Ingenieria de Datos</a></li>
+  <li><a href="https://github.com/diegomaneyro/ApiStream.git">ApiStream</a></li>
+ </ul>
+ <ul>
+   <li><a href="https://github.com/diegomaneyro/Dengue2022Argentina.git">Dengue 2022 en Argentina</a></li>
+ </ul>
+  <ul>
+   <li><a href="https://github.com/diegomaneyro/Analytics.git">Analytics </a></li>
  </ul>
 
 <h3>Lenguajes y herramientas</h3>
