@@ -1,7 +1,10 @@
 <h1 align="center">¡Hola! 👋 Soy Diego Maneyro</h1>
 <p align="center">
-  <b>Apasionado de la Ciencia de Datos de Argentina</b>
+  <b>Data Science</b>
 </p>
+<p align="center">
+  <b>Merlo - Buenos Aires - Argentina</b>
+</p>  
 
 <p align="center">
   <a href="https://diegomaneyro.my.canva.site/">Portafolio</a> •
