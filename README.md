@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://diegomaneyro.my.canva.site/">Portafolio</a> •
-  <a href="https://github.com/diegomaneyro">Proyectos</a> •
+  <a href="https://github.com/diegomaneyro?tab=repositories">Proyectos</a> •
   <a href="https://linkedin.com/in/diego-maneyro">LinkedIn</a> •
   <a href="mailto:diegomaneyro@gmail.com">Correo</a>
 </p>
